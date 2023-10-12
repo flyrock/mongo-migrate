@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-migrate",
+  "name": "mongodb-migrate-nfolds",
   "version": "2.0.2",
   "description": "Migration framework for mongo in node",
   "keywords": [
