@@ -2,7 +2,7 @@
 #### NPM: mongodb-migrate-nfolds
 =============
 
-Built starting with a framework from: https://github.com/visionmedia/node-migrate
+Built starting with a framework from: https://github.com/flyrock/node-migrate
 
 
 ## Installation

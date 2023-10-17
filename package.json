@@ -1,6 +1,6 @@
 {
   "name": "mongodb-migrate-nfolds",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Migration framework for mongo in node",
   "keywords": [
     "mongo",
@@ -8,12 +8,12 @@
     "migrations"
   ],
   "author": {
-    "name": "Austin Floyd",
-    "email": "texsc98@gmail.com"
+    "name": "Ashwani Kumar",
+    "email": "ashwanisangwan11@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/afloyd/mongo-migrate"
+    "url": "git://github.com/flyrock/mongo-migrate"
   },
   "dependencies": {
     "mongodb": ">=1.3.19 <3.0",
